@@ -1,0 +1,41 @@
+[
+     {
+      "id": 1,
+      "name": "Imac",
+      "price": 1829,
+      "imgUrl": "/imgs/imac.jpg"
+    },
+    {
+      "id": 2,
+      "name": "MacBook",
+      "price": 2199,
+      "imgUrl": "/imgs/macbook.png"
+    },
+    {
+      "id": 3,
+      "name": "Ipad",
+      "price": 650,
+      "imgUrl": "/imgs/ipad-air.png"
+    },
+    {
+      "id": 4,
+      "name": "AirPods",
+      "price": 350,
+      "imgUrl": "/imgs/air-pods.jpg"
+    },
+    {
+        "id": 5,
+        "name": "AppleWatch",
+        "price": 550,
+        "imgUrl": "/imgs/apple-watch.jpg"
+    },
+    {
+        "id": 6,
+        "name": "VisionPro",
+        "price": 3500,
+        "imgUrl": "/imgs/vission-pro.webp"
+      }
+  ]
+
+
+   
